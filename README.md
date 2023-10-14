@@ -9,7 +9,7 @@ The basis of Misty's player detection is the [YOLOv5](https://github.com/ultraly
 
 A demo video (outdated) can be found [here](https://www.youtube.com/watch?v=XDAcQNUuT84).
 
-![thumbnail](https://user-images.githubusercontent.com/45726273/126563920-193ca8df-de70-4a91-81ec-d781ee961332.png)
+![thumbnail]([https://user-images.githubusercontent.com/45726273/126563920-193ca8df-de70-4a91-81ec-d781ee961332.png](https://media.discordapp.net/attachments/1009831589544480912/1111622013807763516/image.png?ex=653ba3ad&is=65292ead&hm=54e75c4d4e75af37be63a0f2f53dff129ec77a870e362ae0618ba2bd184b3c82&=&width=928&height=468))
 
 ## Installation
 
